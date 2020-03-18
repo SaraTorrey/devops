@@ -1,0 +1,8 @@
+com/saratorrey/devopsbuddy/web/Web.class
+com/saratorrey/devopsbuddy/DevopsBuddyApplication.class
+com/saratorrey/Main.class
+com/saratorrey/devopsbuddy/web/domain/Domain.class
+com/saratorrey/devopsbuddy/backend/persistance/domain/Welcome.class
+com/saratorrey/devopsbuddy/backend/hi.class
+com/saratorrey/devopsbuddy/web/controllers/Controllers.class
+com/saratorrey/devopsbuddy/backend/persistance/Hello.class
